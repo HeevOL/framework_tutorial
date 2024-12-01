@@ -1,0 +1,4 @@
+pygame
+gym==0.25.0
+numpy
+neat-python
